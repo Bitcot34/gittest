@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush.
+Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. TRest
 
 With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine.
 
